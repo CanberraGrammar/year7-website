@@ -7,18 +7,19 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Computing Concepts Quiz*
+.^|*link:s2assessment/s2task1.pdf[Computing Concepts Quiz^]*
 .^|Monday 26 July 2021 (Week 2)
 .^|In Class, Tuesday 24 August 2021 (Week 6)
 ^.^|20%
 
-.^|*App Development*
-.^|Monday 9 August March 2021 (Week 4)
-.^|8:45am, Monday 13 September 2021 (Week 9)
+.^|*link:s2assessment/s2task2.pdf[App Development: +
+Tutorials and Challenges^]*
+.^|Wednesday 8 September 2021 (Week 8)
+.^|8:45am, Thursday 14 October 2021 (Term 4 Week 2)
 ^.^|40%
 
 .^|*App Design*
-.^|Monday 6 September 2021 (Week 8)
+.^|Monday 11 October 2021 (Term 4 Week 2)
 .^|8:45am, Monday 8 November 2021 +
  (Term 4 Week 6)
 ^.^|40%
